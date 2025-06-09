@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6905e6af-2e2e-4147-874e-eac0ed58017b)# OneHellOfASorter
+# OneHellOfASorter
 
 > A Python script to flawlessly organize your files into categorized folders. Simply one hell of a sorter.
 
@@ -6,8 +6,9 @@
 ![Python Version](https://img.shields.io/badge/python-3.7%2B-blue.svg)
 ![Status: Em Desenvolvimento](https://img.shields.io/badge/status-em%20desenvolvimento-orange.svg)
 
-![Demonstração do OneHellOfASorter]([https://github.com/user-attachments/assets/c9325983-a7d1-4437-8025-b4614a93540c](https://imgs.search.brave.com/Hve4OkajZxELXx3elL3vAGNR7daZNtpmg4cGqBaiOuQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvc2ViYXN0/aWFuLW1pY2hhZWxp/cy1ibGFjay1idXRs/ZXItZGFyay1hbmlt/ZS1hNDJiNzEzdm5u/dTQ4b3QxLmdpZg.gif))
+![Demonstração do OneHellOfASorter](https://github.com/user-attachments/assets/c9325983-a7d1-4437-8025-b4614a93540c)
 *(Para criar um GIF como este, você pode usar ferramentas gratuitas como [ScreenToGif](https://www.screentogif.com/) ou [LICEcap](https://www.cockos.com/licecap/))*
+
 
 ## Sobre o Projeto
 
