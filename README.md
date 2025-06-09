@@ -5,11 +5,9 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Python Version](https://img.shields.io/badge/python-3.7%2B-blue.svg)
 ![Status: Em Desenvolvimento](https://img.shields.io/badge/status-em%20desenvolvimento-orange.svg)
-
-![Demonstração do OneHellOfASorter](https://github.com/user-attachments/assets/c9325983-a7d1-4437-8025-b4614a93540c)
-*(Para criar um GIF como este, você pode usar ferramentas gratuitas como [ScreenToGif](https://www.screentogif.com/) ou [LICEcap](https://www.cockos.com/licecap/))*
-
-
+<p aling="center">
+<img src="https://github.com/user-attachments/assets/d7b17811-45a9-47fc-8749-fbe0cf21f707" alt="Gif de Sebastian Michaelis" width=1000>
+</p>
 ## Sobre o Projeto
 
 Sua pasta de Downloads é um caos de arquivos desordenados? Problemas dessa natureza exigem uma solução de outro nível.
