@@ -79,6 +79,6 @@ Distribuído sob a Licença MIT. Veja o arquivo `LICENSE` para mais informaçõe
 
 ## Contato
 
-Seu Nome - [@seu_twitter](https://twitter.com/seu_twitter) - seu.email@exemplo.com
+Carlos Nascimento - [@bakaloneking](https://twitter.com/bakaloneking) - bakaloneking@hotmail.com
 
 Link do Projeto: [https://github.com/seu-usuario/OneHellOfASorter](https://github.com/seu-usuario/OneHellOfASorter)
